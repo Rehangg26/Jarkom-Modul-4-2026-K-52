@@ -1,0 +1,256 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2520" height="2154" viewBox="0 0 2520 2154">
+<rect width="100%" height="100%" fill="#f8fafc"/>
+<text x="30" y="35" font-family="sans-serif" font-size="26" font-weight="bold" fill="#0f172a">Pohon pembagian IP VLSM — K52 CPT</text>
+<text x="30" y="65" font-family="sans-serif" font-size="16" fill="#475569">Biru: subnet dialokasikan • Abu-abu: blok pembagian • Putih: belum dialokasikan</text>
+<path d="M 217 1119.2958984375 H 225 V 271.125 H 234" stroke="#94a3b8" fill="none"/>
+<path d="M 421 271.125 H 429 V 151.0 H 438" stroke="#94a3b8" fill="none"/>
+<path d="M 625 151.0 H 633 V 120 H 642" stroke="#94a3b8" fill="none"/>
+<path d="M 625 151.0 H 633 V 182 H 642" stroke="#94a3b8" fill="none"/>
+<path d="M 421 271.125 H 429 V 391.25 H 438" stroke="#94a3b8" fill="none"/>
+<path d="M 625 391.25 H 633 V 275.0 H 642" stroke="#94a3b8" fill="none"/>
+<path d="M 829 275.0 H 837 V 244 H 846" stroke="#94a3b8" fill="none"/>
+<path d="M 829 275.0 H 837 V 306 H 846" stroke="#94a3b8" fill="none"/>
+<path d="M 625 391.25 H 633 V 507.5 H 642" stroke="#94a3b8" fill="none"/>
+<path d="M 829 507.5 H 837 V 399.0 H 846" stroke="#94a3b8" fill="none"/>
+<path d="M 1033 399.0 H 1041 V 368 H 1050" stroke="#94a3b8" fill="none"/>
+<path d="M 1033 399.0 H 1041 V 430 H 1050" stroke="#94a3b8" fill="none"/>
+<path d="M 829 507.5 H 837 V 616.0 H 846" stroke="#94a3b8" fill="none"/>
+<path d="M 1033 616.0 H 1041 V 523.0 H 1050" stroke="#94a3b8" fill="none"/>
+<path d="M 1237 523.0 H 1245 V 492 H 1254" stroke="#94a3b8" fill="none"/>
+<path d="M 1237 523.0 H 1245 V 554 H 1254" stroke="#94a3b8" fill="none"/>
+<path d="M 1033 616.0 H 1041 V 709.0 H 1050" stroke="#94a3b8" fill="none"/>
+<path d="M 1237 709.0 H 1245 V 647.0 H 1254" stroke="#94a3b8" fill="none"/>
+<path d="M 1441 647.0 H 1449 V 616 H 1458" stroke="#94a3b8" fill="none"/>
+<path d="M 1441 647.0 H 1449 V 678 H 1458" stroke="#94a3b8" fill="none"/>
+<path d="M 1237 709.0 H 1245 V 771.0 H 1254" stroke="#94a3b8" fill="none"/>
+<path d="M 1441 771.0 H 1449 V 740 H 1458" stroke="#94a3b8" fill="none"/>
+<path d="M 1441 771.0 H 1449 V 802 H 1458" stroke="#94a3b8" fill="none"/>
+<path d="M 217 1119.2958984375 H 225 V 1967.466796875 H 234" stroke="#94a3b8" fill="none"/>
+<path d="M 421 1967.466796875 H 429 V 1892.93359375 H 438" stroke="#94a3b8" fill="none"/>
+<path d="M 625 1892.93359375 H 633 V 1805.8671875 H 642" stroke="#94a3b8" fill="none"/>
+<path d="M 829 1805.8671875 H 837 V 1693.734375 H 846" stroke="#94a3b8" fill="none"/>
+<path d="M 1033 1693.734375 H 1041 V 1531.46875 H 1050" stroke="#94a3b8" fill="none"/>
+<path d="M 1237 1531.46875 H 1245 V 1268.9375 H 1254" stroke="#94a3b8" fill="none"/>
+<path d="M 1441 1268.9375 H 1449 V 945.375 H 1458" stroke="#94a3b8" fill="none"/>
+<path d="M 1645 945.375 H 1653 V 864 H 1662" stroke="#94a3b8" fill="none"/>
+<path d="M 1645 945.375 H 1653 V 1026.75 H 1662" stroke="#94a3b8" fill="none"/>
+<path d="M 1849 1026.75 H 1857 V 957.0 H 1866" stroke="#94a3b8" fill="none"/>
+<path d="M 2053 957.0 H 2061 V 926 H 2070" stroke="#94a3b8" fill="none"/>
+<path d="M 2053 957.0 H 2061 V 988 H 2070" stroke="#94a3b8" fill="none"/>
+<path d="M 1849 1026.75 H 1857 V 1096.5 H 1866" stroke="#94a3b8" fill="none"/>
+<path d="M 2053 1096.5 H 2061 V 1050 H 2070" stroke="#94a3b8" fill="none"/>
+<path d="M 2053 1096.5 H 2061 V 1143.0 H 2070" stroke="#94a3b8" fill="none"/>
+<path d="M 2257 1143.0 H 2265 V 1112 H 2274" stroke="#94a3b8" fill="none"/>
+<path d="M 2257 1143.0 H 2265 V 1174 H 2274" stroke="#94a3b8" fill="none"/>
+<path d="M 1441 1268.9375 H 1449 V 1592.5 H 1458" stroke="#94a3b8" fill="none"/>
+<path d="M 1645 1592.5 H 1653 V 1453.0 H 1662" stroke="#94a3b8" fill="none"/>
+<path d="M 1849 1453.0 H 1857 V 1329.0 H 1866" stroke="#94a3b8" fill="none"/>
+<path d="M 2053 1329.0 H 2061 V 1267.0 H 2070" stroke="#94a3b8" fill="none"/>
+<path d="M 2257 1267.0 H 2265 V 1236 H 2274" stroke="#94a3b8" fill="none"/>
+<path d="M 2257 1267.0 H 2265 V 1298 H 2274" stroke="#94a3b8" fill="none"/>
+<path d="M 2053 1329.0 H 2061 V 1391.0 H 2070" stroke="#94a3b8" fill="none"/>
+<path d="M 2257 1391.0 H 2265 V 1360 H 2274" stroke="#94a3b8" fill="none"/>
+<path d="M 2257 1391.0 H 2265 V 1422 H 2274" stroke="#94a3b8" fill="none"/>
+<path d="M 1849 1453.0 H 1857 V 1577.0 H 1866" stroke="#94a3b8" fill="none"/>
+<path d="M 2053 1577.0 H 2061 V 1515.0 H 2070" stroke="#94a3b8" fill="none"/>
+<path d="M 2257 1515.0 H 2265 V 1484 H 2274" stroke="#94a3b8" fill="none"/>
+<path d="M 2257 1515.0 H 2265 V 1546 H 2274" stroke="#94a3b8" fill="none"/>
+<path d="M 2053 1577.0 H 2061 V 1639.0 H 2070" stroke="#94a3b8" fill="none"/>
+<path d="M 2257 1639.0 H 2265 V 1608 H 2274" stroke="#94a3b8" fill="none"/>
+<path d="M 2257 1639.0 H 2265 V 1670 H 2274" stroke="#94a3b8" fill="none"/>
+<path d="M 1645 1592.5 H 1653 V 1732 H 1662" stroke="#94a3b8" fill="none"/>
+<path d="M 1237 1531.46875 H 1245 V 1794 H 1254" stroke="#94a3b8" fill="none"/>
+<path d="M 1033 1693.734375 H 1041 V 1856 H 1050" stroke="#94a3b8" fill="none"/>
+<path d="M 829 1805.8671875 H 837 V 1918 H 846" stroke="#94a3b8" fill="none"/>
+<path d="M 625 1892.93359375 H 633 V 1980 H 642" stroke="#94a3b8" fill="none"/>
+<path d="M 421 1967.466796875 H 429 V 2042 H 438" stroke="#94a3b8" fill="none"/>
+<rect x="30" y="1097.2958984375" width="187" height="44" rx="5" fill="#e2e8f0" stroke="#94a3b8"/>
+<text x="37" y="1116.2958984375" font-family="sans-serif" font-size="13" fill="#0f172a">192.237.0.0/19</text>
+<text x="37" y="1133.2958984375" font-family="sans-serif" font-size="12" fill="#334155">Pembagian</text>
+<rect x="234" y="249.125" width="187" height="44" rx="5" fill="#e2e8f0" stroke="#94a3b8"/>
+<text x="241" y="268.125" font-family="sans-serif" font-size="13" fill="#0f172a">192.237.0.0/20</text>
+<text x="241" y="285.125" font-family="sans-serif" font-size="12" fill="#334155">Pembagian</text>
+<rect x="438" y="129.0" width="187" height="44" rx="5" fill="#e2e8f0" stroke="#94a3b8"/>
+<text x="445" y="148.0" font-family="sans-serif" font-size="13" fill="#0f172a">192.237.0.0/21</text>
+<text x="445" y="165.0" font-family="sans-serif" font-size="12" fill="#334155">Pembagian</text>
+<rect x="642" y="98" width="187" height="44" rx="5" fill="#dbeafe" stroke="#94a3b8"/>
+<text x="649" y="117" font-family="sans-serif" font-size="13" fill="#0f172a">192.237.0.0/22</text>
+<text x="649" y="134" font-family="sans-serif" font-size="12" fill="#334155">A1</text>
+<rect x="642" y="160" width="187" height="44" rx="5" fill="#dbeafe" stroke="#94a3b8"/>
+<text x="649" y="179" font-family="sans-serif" font-size="13" fill="#0f172a">192.237.4.0/22</text>
+<text x="649" y="196" font-family="sans-serif" font-size="12" fill="#334155">A2</text>
+<rect x="438" y="369.25" width="187" height="44" rx="5" fill="#e2e8f0" stroke="#94a3b8"/>
+<text x="445" y="388.25" font-family="sans-serif" font-size="13" fill="#0f172a">192.237.8.0/21</text>
+<text x="445" y="405.25" font-family="sans-serif" font-size="12" fill="#334155">Pembagian</text>
+<rect x="642" y="253.0" width="187" height="44" rx="5" fill="#e2e8f0" stroke="#94a3b8"/>
+<text x="649" y="272.0" font-family="sans-serif" font-size="13" fill="#0f172a">192.237.8.0/22</text>
+<text x="649" y="289.0" font-family="sans-serif" font-size="12" fill="#334155">Pembagian</text>
+<rect x="846" y="222" width="187" height="44" rx="5" fill="#dbeafe" stroke="#94a3b8"/>
+<text x="853" y="241" font-family="sans-serif" font-size="13" fill="#0f172a">192.237.8.0/23</text>
+<text x="853" y="258" font-family="sans-serif" font-size="12" fill="#334155">A3</text>
+<rect x="846" y="284" width="187" height="44" rx="5" fill="#dbeafe" stroke="#94a3b8"/>
+<text x="853" y="303" font-family="sans-serif" font-size="13" fill="#0f172a">192.237.10.0/23</text>
+<text x="853" y="320" font-family="sans-serif" font-size="12" fill="#334155">A4</text>
+<rect x="642" y="485.5" width="187" height="44" rx="5" fill="#e2e8f0" stroke="#94a3b8"/>
+<text x="649" y="504.5" font-family="sans-serif" font-size="13" fill="#0f172a">192.237.12.0/22</text>
+<text x="649" y="521.5" font-family="sans-serif" font-size="12" fill="#334155">Pembagian</text>
+<rect x="846" y="377.0" width="187" height="44" rx="5" fill="#e2e8f0" stroke="#94a3b8"/>
+<text x="853" y="396.0" font-family="sans-serif" font-size="13" fill="#0f172a">192.237.12.0/23</text>
+<text x="853" y="413.0" font-family="sans-serif" font-size="12" fill="#334155">Pembagian</text>
+<rect x="1050" y="346" width="187" height="44" rx="5" fill="#dbeafe" stroke="#94a3b8"/>
+<text x="1057" y="365" font-family="sans-serif" font-size="13" fill="#0f172a">192.237.12.0/24</text>
+<text x="1057" y="382" font-family="sans-serif" font-size="12" fill="#334155">A5</text>
+<rect x="1050" y="408" width="187" height="44" rx="5" fill="#dbeafe" stroke="#94a3b8"/>
+<text x="1057" y="427" font-family="sans-serif" font-size="13" fill="#0f172a">192.237.13.0/24</text>
+<text x="1057" y="444" font-family="sans-serif" font-size="12" fill="#334155">A6</text>
+<rect x="846" y="594.0" width="187" height="44" rx="5" fill="#e2e8f0" stroke="#94a3b8"/>
+<text x="853" y="613.0" font-family="sans-serif" font-size="13" fill="#0f172a">192.237.14.0/23</text>
+<text x="853" y="630.0" font-family="sans-serif" font-size="12" fill="#334155">Pembagian</text>
+<rect x="1050" y="501.0" width="187" height="44" rx="5" fill="#e2e8f0" stroke="#94a3b8"/>
+<text x="1057" y="520.0" font-family="sans-serif" font-size="13" fill="#0f172a">192.237.14.0/24</text>
+<text x="1057" y="537.0" font-family="sans-serif" font-size="12" fill="#334155">Pembagian</text>
+<rect x="1254" y="470" width="187" height="44" rx="5" fill="#dbeafe" stroke="#94a3b8"/>
+<text x="1261" y="489" font-family="sans-serif" font-size="13" fill="#0f172a">192.237.14.0/25</text>
+<text x="1261" y="506" font-family="sans-serif" font-size="12" fill="#334155">A7</text>
+<rect x="1254" y="532" width="187" height="44" rx="5" fill="#dbeafe" stroke="#94a3b8"/>
+<text x="1261" y="551" font-family="sans-serif" font-size="13" fill="#0f172a">192.237.14.128/25</text>
+<text x="1261" y="568" font-family="sans-serif" font-size="12" fill="#334155">A8</text>
+<rect x="1050" y="687.0" width="187" height="44" rx="5" fill="#e2e8f0" stroke="#94a3b8"/>
+<text x="1057" y="706.0" font-family="sans-serif" font-size="13" fill="#0f172a">192.237.15.0/24</text>
+<text x="1057" y="723.0" font-family="sans-serif" font-size="12" fill="#334155">Pembagian</text>
+<rect x="1254" y="625.0" width="187" height="44" rx="5" fill="#e2e8f0" stroke="#94a3b8"/>
+<text x="1261" y="644.0" font-family="sans-serif" font-size="13" fill="#0f172a">192.237.15.0/25</text>
+<text x="1261" y="661.0" font-family="sans-serif" font-size="12" fill="#334155">Pembagian</text>
+<rect x="1458" y="594" width="187" height="44" rx="5" fill="#dbeafe" stroke="#94a3b8"/>
+<text x="1465" y="613" font-family="sans-serif" font-size="13" fill="#0f172a">192.237.15.0/26</text>
+<text x="1465" y="630" font-family="sans-serif" font-size="12" fill="#334155">A9</text>
+<rect x="1458" y="656" width="187" height="44" rx="5" fill="#dbeafe" stroke="#94a3b8"/>
+<text x="1465" y="675" font-family="sans-serif" font-size="13" fill="#0f172a">192.237.15.64/26</text>
+<text x="1465" y="692" font-family="sans-serif" font-size="12" fill="#334155">A10</text>
+<rect x="1254" y="749.0" width="187" height="44" rx="5" fill="#e2e8f0" stroke="#94a3b8"/>
+<text x="1261" y="768.0" font-family="sans-serif" font-size="13" fill="#0f172a">192.237.15.128/25</text>
+<text x="1261" y="785.0" font-family="sans-serif" font-size="12" fill="#334155">Pembagian</text>
+<rect x="1458" y="718" width="187" height="44" rx="5" fill="#dbeafe" stroke="#94a3b8"/>
+<text x="1465" y="737" font-family="sans-serif" font-size="13" fill="#0f172a">192.237.15.128/26</text>
+<text x="1465" y="754" font-family="sans-serif" font-size="12" fill="#334155">A11</text>
+<rect x="1458" y="780" width="187" height="44" rx="5" fill="#dbeafe" stroke="#94a3b8"/>
+<text x="1465" y="799" font-family="sans-serif" font-size="13" fill="#0f172a">192.237.15.192/26</text>
+<text x="1465" y="816" font-family="sans-serif" font-size="12" fill="#334155">A12</text>
+<rect x="234" y="1945.466796875" width="187" height="44" rx="5" fill="#e2e8f0" stroke="#94a3b8"/>
+<text x="241" y="1964.466796875" font-family="sans-serif" font-size="13" fill="#0f172a">192.237.16.0/20</text>
+<text x="241" y="1981.466796875" font-family="sans-serif" font-size="12" fill="#334155">Pembagian</text>
+<rect x="438" y="1870.93359375" width="187" height="44" rx="5" fill="#e2e8f0" stroke="#94a3b8"/>
+<text x="445" y="1889.93359375" font-family="sans-serif" font-size="13" fill="#0f172a">192.237.16.0/21</text>
+<text x="445" y="1906.93359375" font-family="sans-serif" font-size="12" fill="#334155">Pembagian</text>
+<rect x="642" y="1783.8671875" width="187" height="44" rx="5" fill="#e2e8f0" stroke="#94a3b8"/>
+<text x="649" y="1802.8671875" font-family="sans-serif" font-size="13" fill="#0f172a">192.237.16.0/22</text>
+<text x="649" y="1819.8671875" font-family="sans-serif" font-size="12" fill="#334155">Pembagian</text>
+<rect x="846" y="1671.734375" width="187" height="44" rx="5" fill="#e2e8f0" stroke="#94a3b8"/>
+<text x="853" y="1690.734375" font-family="sans-serif" font-size="13" fill="#0f172a">192.237.16.0/23</text>
+<text x="853" y="1707.734375" font-family="sans-serif" font-size="12" fill="#334155">Pembagian</text>
+<rect x="1050" y="1509.46875" width="187" height="44" rx="5" fill="#e2e8f0" stroke="#94a3b8"/>
+<text x="1057" y="1528.46875" font-family="sans-serif" font-size="13" fill="#0f172a">192.237.16.0/24</text>
+<text x="1057" y="1545.46875" font-family="sans-serif" font-size="12" fill="#334155">Pembagian</text>
+<rect x="1254" y="1246.9375" width="187" height="44" rx="5" fill="#e2e8f0" stroke="#94a3b8"/>
+<text x="1261" y="1265.9375" font-family="sans-serif" font-size="13" fill="#0f172a">192.237.16.0/25</text>
+<text x="1261" y="1282.9375" font-family="sans-serif" font-size="12" fill="#334155">Pembagian</text>
+<rect x="1458" y="923.375" width="187" height="44" rx="5" fill="#e2e8f0" stroke="#94a3b8"/>
+<text x="1465" y="942.375" font-family="sans-serif" font-size="13" fill="#0f172a">192.237.16.0/26</text>
+<text x="1465" y="959.375" font-family="sans-serif" font-size="12" fill="#334155">Pembagian</text>
+<rect x="1662" y="842" width="187" height="44" rx="5" fill="#dbeafe" stroke="#94a3b8"/>
+<text x="1669" y="861" font-family="sans-serif" font-size="13" fill="#0f172a">192.237.16.0/27</text>
+<text x="1669" y="878" font-family="sans-serif" font-size="12" fill="#334155">A13</text>
+<rect x="1662" y="1004.75" width="187" height="44" rx="5" fill="#e2e8f0" stroke="#94a3b8"/>
+<text x="1669" y="1023.75" font-family="sans-serif" font-size="13" fill="#0f172a">192.237.16.32/27</text>
+<text x="1669" y="1040.75" font-family="sans-serif" font-size="12" fill="#334155">Pembagian</text>
+<rect x="1866" y="935.0" width="187" height="44" rx="5" fill="#e2e8f0" stroke="#94a3b8"/>
+<text x="1873" y="954.0" font-family="sans-serif" font-size="13" fill="#0f172a">192.237.16.32/28</text>
+<text x="1873" y="971.0" font-family="sans-serif" font-size="12" fill="#334155">Pembagian</text>
+<rect x="2070" y="904" width="187" height="44" rx="5" fill="#dbeafe" stroke="#94a3b8"/>
+<text x="2077" y="923" font-family="sans-serif" font-size="13" fill="#0f172a">192.237.16.32/29</text>
+<text x="2077" y="940" font-family="sans-serif" font-size="12" fill="#334155">A14</text>
+<rect x="2070" y="966" width="187" height="44" rx="5" fill="#dbeafe" stroke="#94a3b8"/>
+<text x="2077" y="985" font-family="sans-serif" font-size="13" fill="#0f172a">192.237.16.40/29</text>
+<text x="2077" y="1002" font-family="sans-serif" font-size="12" fill="#334155">A15</text>
+<rect x="1866" y="1074.5" width="187" height="44" rx="5" fill="#e2e8f0" stroke="#94a3b8"/>
+<text x="1873" y="1093.5" font-family="sans-serif" font-size="13" fill="#0f172a">192.237.16.48/28</text>
+<text x="1873" y="1110.5" font-family="sans-serif" font-size="12" fill="#334155">Pembagian</text>
+<rect x="2070" y="1028" width="187" height="44" rx="5" fill="#dbeafe" stroke="#94a3b8"/>
+<text x="2077" y="1047" font-family="sans-serif" font-size="13" fill="#0f172a">192.237.16.48/29</text>
+<text x="2077" y="1064" font-family="sans-serif" font-size="12" fill="#334155">A19</text>
+<rect x="2070" y="1121.0" width="187" height="44" rx="5" fill="#e2e8f0" stroke="#94a3b8"/>
+<text x="2077" y="1140.0" font-family="sans-serif" font-size="13" fill="#0f172a">192.237.16.56/29</text>
+<text x="2077" y="1157.0" font-family="sans-serif" font-size="12" fill="#334155">Pembagian</text>
+<rect x="2274" y="1090" width="187" height="44" rx="5" fill="#dbeafe" stroke="#94a3b8"/>
+<text x="2281" y="1109" font-family="sans-serif" font-size="13" fill="#0f172a">192.237.16.56/30</text>
+<text x="2281" y="1126" font-family="sans-serif" font-size="12" fill="#334155">A16</text>
+<rect x="2274" y="1152" width="187" height="44" rx="5" fill="#dbeafe" stroke="#94a3b8"/>
+<text x="2281" y="1171" font-family="sans-serif" font-size="13" fill="#0f172a">192.237.16.60/30</text>
+<text x="2281" y="1188" font-family="sans-serif" font-size="12" fill="#334155">A17</text>
+<rect x="1458" y="1570.5" width="187" height="44" rx="5" fill="#e2e8f0" stroke="#94a3b8"/>
+<text x="1465" y="1589.5" font-family="sans-serif" font-size="13" fill="#0f172a">192.237.16.64/26</text>
+<text x="1465" y="1606.5" font-family="sans-serif" font-size="12" fill="#334155">Pembagian</text>
+<rect x="1662" y="1431.0" width="187" height="44" rx="5" fill="#e2e8f0" stroke="#94a3b8"/>
+<text x="1669" y="1450.0" font-family="sans-serif" font-size="13" fill="#0f172a">192.237.16.64/27</text>
+<text x="1669" y="1467.0" font-family="sans-serif" font-size="12" fill="#334155">Pembagian</text>
+<rect x="1866" y="1307.0" width="187" height="44" rx="5" fill="#e2e8f0" stroke="#94a3b8"/>
+<text x="1873" y="1326.0" font-family="sans-serif" font-size="13" fill="#0f172a">192.237.16.64/28</text>
+<text x="1873" y="1343.0" font-family="sans-serif" font-size="12" fill="#334155">Pembagian</text>
+<rect x="2070" y="1245.0" width="187" height="44" rx="5" fill="#e2e8f0" stroke="#94a3b8"/>
+<text x="2077" y="1264.0" font-family="sans-serif" font-size="13" fill="#0f172a">192.237.16.64/29</text>
+<text x="2077" y="1281.0" font-family="sans-serif" font-size="12" fill="#334155">Pembagian</text>
+<rect x="2274" y="1214" width="187" height="44" rx="5" fill="#dbeafe" stroke="#94a3b8"/>
+<text x="2281" y="1233" font-family="sans-serif" font-size="13" fill="#0f172a">192.237.16.64/30</text>
+<text x="2281" y="1250" font-family="sans-serif" font-size="12" fill="#334155">A18</text>
+<rect x="2274" y="1276" width="187" height="44" rx="5" fill="#dbeafe" stroke="#94a3b8"/>
+<text x="2281" y="1295" font-family="sans-serif" font-size="13" fill="#0f172a">192.237.16.68/30</text>
+<text x="2281" y="1312" font-family="sans-serif" font-size="12" fill="#334155">A20</text>
+<rect x="2070" y="1369.0" width="187" height="44" rx="5" fill="#e2e8f0" stroke="#94a3b8"/>
+<text x="2077" y="1388.0" font-family="sans-serif" font-size="13" fill="#0f172a">192.237.16.72/29</text>
+<text x="2077" y="1405.0" font-family="sans-serif" font-size="12" fill="#334155">Pembagian</text>
+<rect x="2274" y="1338" width="187" height="44" rx="5" fill="#dbeafe" stroke="#94a3b8"/>
+<text x="2281" y="1357" font-family="sans-serif" font-size="13" fill="#0f172a">192.237.16.72/30</text>
+<text x="2281" y="1374" font-family="sans-serif" font-size="12" fill="#334155">A21</text>
+<rect x="2274" y="1400" width="187" height="44" rx="5" fill="#dbeafe" stroke="#94a3b8"/>
+<text x="2281" y="1419" font-family="sans-serif" font-size="13" fill="#0f172a">192.237.16.76/30</text>
+<text x="2281" y="1436" font-family="sans-serif" font-size="12" fill="#334155">A22</text>
+<rect x="1866" y="1555.0" width="187" height="44" rx="5" fill="#e2e8f0" stroke="#94a3b8"/>
+<text x="1873" y="1574.0" font-family="sans-serif" font-size="13" fill="#0f172a">192.237.16.80/28</text>
+<text x="1873" y="1591.0" font-family="sans-serif" font-size="12" fill="#334155">Pembagian</text>
+<rect x="2070" y="1493.0" width="187" height="44" rx="5" fill="#e2e8f0" stroke="#94a3b8"/>
+<text x="2077" y="1512.0" font-family="sans-serif" font-size="13" fill="#0f172a">192.237.16.80/29</text>
+<text x="2077" y="1529.0" font-family="sans-serif" font-size="12" fill="#334155">Pembagian</text>
+<rect x="2274" y="1462" width="187" height="44" rx="5" fill="#dbeafe" stroke="#94a3b8"/>
+<text x="2281" y="1481" font-family="sans-serif" font-size="13" fill="#0f172a">192.237.16.80/30</text>
+<text x="2281" y="1498" font-family="sans-serif" font-size="12" fill="#334155">A23</text>
+<rect x="2274" y="1524" width="187" height="44" rx="5" fill="#dbeafe" stroke="#94a3b8"/>
+<text x="2281" y="1543" font-family="sans-serif" font-size="13" fill="#0f172a">192.237.16.84/30</text>
+<text x="2281" y="1560" font-family="sans-serif" font-size="12" fill="#334155">A24</text>
+<rect x="2070" y="1617.0" width="187" height="44" rx="5" fill="#e2e8f0" stroke="#94a3b8"/>
+<text x="2077" y="1636.0" font-family="sans-serif" font-size="13" fill="#0f172a">192.237.16.88/29</text>
+<text x="2077" y="1653.0" font-family="sans-serif" font-size="12" fill="#334155">Pembagian</text>
+<rect x="2274" y="1586" width="187" height="44" rx="5" fill="#dbeafe" stroke="#94a3b8"/>
+<text x="2281" y="1605" font-family="sans-serif" font-size="13" fill="#0f172a">192.237.16.88/30</text>
+<text x="2281" y="1622" font-family="sans-serif" font-size="12" fill="#334155">A25</text>
+<rect x="2274" y="1648" width="187" height="44" rx="5" fill="#ffffff" stroke="#94a3b8"/>
+<text x="2281" y="1667" font-family="sans-serif" font-size="13" fill="#0f172a">192.237.16.92/30</text>
+<text x="2281" y="1684" font-family="sans-serif" font-size="12" fill="#334155">Belum dialokasikan</text>
+<rect x="1662" y="1710" width="187" height="44" rx="5" fill="#ffffff" stroke="#94a3b8"/>
+<text x="1669" y="1729" font-family="sans-serif" font-size="13" fill="#0f172a">192.237.16.96/27</text>
+<text x="1669" y="1746" font-family="sans-serif" font-size="12" fill="#334155">Belum dialokasikan</text>
+<rect x="1254" y="1772" width="187" height="44" rx="5" fill="#ffffff" stroke="#94a3b8"/>
+<text x="1261" y="1791" font-family="sans-serif" font-size="13" fill="#0f172a">192.237.16.128/25</text>
+<text x="1261" y="1808" font-family="sans-serif" font-size="12" fill="#334155">Belum dialokasikan</text>
+<rect x="1050" y="1834" width="187" height="44" rx="5" fill="#ffffff" stroke="#94a3b8"/>
+<text x="1057" y="1853" font-family="sans-serif" font-size="13" fill="#0f172a">192.237.17.0/24</text>
+<text x="1057" y="1870" font-family="sans-serif" font-size="12" fill="#334155">Belum dialokasikan</text>
+<rect x="846" y="1896" width="187" height="44" rx="5" fill="#ffffff" stroke="#94a3b8"/>
+<text x="853" y="1915" font-family="sans-serif" font-size="13" fill="#0f172a">192.237.18.0/23</text>
+<text x="853" y="1932" font-family="sans-serif" font-size="12" fill="#334155">Belum dialokasikan</text>
+<rect x="642" y="1958" width="187" height="44" rx="5" fill="#ffffff" stroke="#94a3b8"/>
+<text x="649" y="1977" font-family="sans-serif" font-size="13" fill="#0f172a">192.237.20.0/22</text>
+<text x="649" y="1994" font-family="sans-serif" font-size="12" fill="#334155">Belum dialokasikan</text>
+<rect x="438" y="2020" width="187" height="44" rx="5" fill="#ffffff" stroke="#94a3b8"/>
+<text x="445" y="2039" font-family="sans-serif" font-size="13" fill="#0f172a">192.237.24.0/21</text>
+<text x="445" y="2056" font-family="sans-serif" font-size="12" fill="#334155">Belum dialokasikan</text>
+</svg>
